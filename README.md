@@ -11,3 +11,5 @@ https://www.statmt.org/wmt22/pdf/2022.wmt-1.38.pdf
 https://arxiv.org/abs/1908.10084
 
 https://towardsdatascience.com/cutting-edge-bert-nlp-model-bb0bfc8b7aec
+
+distiluse-base-multilingual-cased > LASER
