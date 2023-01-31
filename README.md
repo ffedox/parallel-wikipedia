@@ -1,4 +1,4 @@
-# pbr
+# A semi-automatic approach to parallel corpora extraction from the Wikipedia
 
 https://stackoverflow.com/questions/53101673/get-all-pages-from-a-given-category-from-wikipedia
 
