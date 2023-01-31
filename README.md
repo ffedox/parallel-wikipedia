@@ -14,7 +14,7 @@ The extracted corpus is available in .xlsx and .tmx format.
 
 ## Getting the code
 
-You can download a copy of all the files in this repository by cloning the
+A copy of all the files can be downloaded by cloning the
 [git](https://git-scm.com/) repository:
 
     git clone https://github.com/ffedox/pbr
