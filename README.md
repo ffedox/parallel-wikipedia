@@ -7,6 +7,9 @@ This repository contains the software developed for the pilot project of the Pro
 1. Parallel_corpus_creation.ipynb
 2. Report
 
+## Data
+
+The extracted corpus is available in .xlsx and .tmx format. 
 
 https://stackoverflow.com/questions/53101673/get-all-pages-from-a-given-category-from-wikipedia
 
