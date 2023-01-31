@@ -29,10 +29,11 @@ You can download a copy of all the files in this repository by cloning the
 4. Install [NLTK](https://www.nltk.org/) <br />
 `pip install nltk` <br />
 5. Download punkt from [NLTK](https://www.nltk.org/nltk_data/) (in order to tokenize the text into sentences) <br />
-'python -m nltk.downloader punkt' <br />
+`python -m nltk.downloader punkt` <br />
 5. Install [Wikipedia-API](https://github.com/martin-majlis/Wikipedia-API) <br />
 `pip install wikipedia-api` <br />
 6. Install [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers) <br />
+`pip install sentence-transformers` <br />
 7. If you want to use a GPU: Install [PyTorch](https://pytorch.org/) <br />
 `pip install torch` <br />
 
