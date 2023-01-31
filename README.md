@@ -34,5 +34,5 @@ A copy of all the files can be downloaded by cloning the
 `pip install wikipedia-api` <br />
 6. Install [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers) <br />
 `pip install sentence-transformers` <br />
-7. If you want to use a GPU: Install [PyTorch](https://pytorch.org/) <br />
+7. To use a GPU: Install [PyTorch](https://pytorch.org/) <br />
 `pip install torch` <br />
