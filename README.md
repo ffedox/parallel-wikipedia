@@ -29,7 +29,7 @@ You can download a copy of all the files in this repository by cloning the
 4. Install [NLTK](https://www.nltk.org/) <br />
 `pip install nltk` <br />
 5. Download punkt from [NLTK](https://www.nltk.org/nltk_data/) (for tokenizing the texts into sentences) <br />
-`python -m nltk.downloader punkt` <br />
+`python3 -m nltk.downloader punkt` <br />
 5. Install [Wikipedia-API](https://github.com/martin-majlis/Wikipedia-API) <br />
 `pip install wikipedia-api` <br />
 6. Install [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers) <br />
