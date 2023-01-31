@@ -17,7 +17,6 @@ You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
     git clone https://github.com/ffedox/pbr
-    
 
 ## Setup and Installation
 1. Install [Pandas](https://pandas.pydata.org/) <br />
