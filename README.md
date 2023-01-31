@@ -4,8 +4,8 @@ This repository contains the software developed for the pilot project of the Pro
 
 ## Contents
 
-1. Parallel_corpus_creation.ipynb
-2. Report
+1. [Parallel_corpus_creation.ipynb](https://github.com/ffedox/pbr/blob/main/parallel_corpus_creation.ipynb):
+2. Report:
 
 ## Data
 
