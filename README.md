@@ -35,18 +35,3 @@ You can download a copy of all the files in this repository by cloning the
 `pip install sentence-transformers` <br />
 7. If you want to use a GPU: Install [PyTorch](https://pytorch.org/) <br />
 `pip install torch` <br />
-
-
-https://stackoverflow.com/questions/53101673/get-all-pages-from-a-given-category-from-wikipedia
-
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
-
-https://arxiv.org/pdf/1907.05791.pdf
-
-https://www.statmt.org/wmt22/pdf/2022.wmt-1.38.pdf
-
-https://arxiv.org/abs/1908.10084
-
-https://towardsdatascience.com/cutting-edge-bert-nlp-model-bb0bfc8b7aec
-
-distiluse-base-multilingual-cased > LASER
