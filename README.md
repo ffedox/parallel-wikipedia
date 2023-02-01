@@ -36,3 +36,4 @@ A copy of all the files can be downloaded by cloning the
 `pip install sentence-transformers` <br />
 7. To use a GPU: Install [PyTorch](https://pytorch.org/) <br />
 `pip install torch` <br />
+ 
