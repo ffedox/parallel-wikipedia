@@ -6,7 +6,8 @@ This repository contains the software developed for the pilot project of the Pro
 
 1. [Parallel_corpus_creation.ipynb](https://github.com/ffedox/pbr/blob/main/parallel_corpus_creation.ipynb):
 2. [Parallel_corpus_script.py](https://github.com/ffedox/pbr/blob/main/parallel_corpus_script.py):
-3. Report:
+3. [Text_cleaning.ipynb](https://github.com/ffedox/pbr/blob/main/text_cleaning.ipynb):
+4. Report:
 
 ## Data
 
