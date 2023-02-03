@@ -11,7 +11,7 @@ This repository contains the software developed for the pilot project of the Pro
 
 ## Data
 
-The extracted corpus is available in [.xlsx](https://docs.google.com/spreadsheets/d/1GfDVnTPxNvPf1G0QgT6TFHL4TTkZeRCp/edit?usp=sharing&ouid=116503555824878479100&rtpof=true&sd=true) and .tmx format. 
+The extracted corpus is available in [.xlsx](https://docs.google.com/spreadsheets/d/1wj0yUTVTfIckiWAGbxc0-M3sVBfNDDWn/edit?usp=sharing&ouid=116503555824878479100&rtpof=true&sd=true) and .tmx format. 
 
 ## Getting the code
 
