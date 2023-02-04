@@ -7,7 +7,7 @@ This repository contains the software developed for the pilot project of the Pro
 1. [Parallel_corpus_creation.ipynb](https://github.com/ffedox/pbr/blob/main/parallel_corpus_creation.ipynb): our semi-automatic pipeline for the extraction of parallel corpora from Wikipedia. 
 2. [Parallel_corpus_script.py](https://github.com/ffedox/pbr/blob/main/parallel_corpus_script.py): a Python script that can be used to extract parallel articles from the command line.
 3. [Text_cleaning.ipynb](https://github.com/ffedox/pbr/blob/main/text_cleaning.ipynb): 
-4. Report: written report providing a detailed overview of the proposed solution.
+4. Report: written report providing a detailed overview of the proposed solution and the thought process behind it.
 
 ## Data
 
