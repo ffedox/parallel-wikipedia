@@ -1,4 +1,4 @@
-# A semi-automatic approach to parallel corpora extraction from the Wikipedia
+# A semi-automatic approach to parallel corpora extraction from Wikipedia
 
 This repository contains the software developed for the pilot project of the Profession-Based Research course. The main task of the project was to identify in-domain Wikipedia articles in English and Italian in order to extract a parallel corpus.
 
