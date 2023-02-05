@@ -53,7 +53,7 @@ def get_en_articles(page_titles, page_texts_en):
     page = wiki_wiki.page(str(title))
     get_langlinks(page, page_texts_en)
 
-print("Retrieving EN articles..")
+print("Retrieving EN articles...")
 
 get_en_articles(page_titles, page_texts_en)
 
