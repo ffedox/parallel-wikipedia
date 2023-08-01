@@ -1,6 +1,6 @@
 # A semi-automatic approach to parallel corpora extraction from Wikipedia
 
-This repository contains the final project submitted for the [Profession-Based Research course](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/497626) of the MA in Translation and Technology. The main task of the project was to identify in-domain Wikipedia articles in English and Italian in order to extract a parallel corpus.
+This repository contains the final project submitted for the [Profession-Based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/497626) course of the MA in Translation and Technology. The main task of the project was to identify in-domain Wikipedia articles in English and Italian in order to extract a parallel corpus.
 
 ## Contents
 
